@@ -1,0 +1,28 @@
+
+{
+    "MessageOfTheDay": "Tencer custom server (by 567)",
+    "CdnBaseUri": "cdn",
+    "MatchmakingParams": {
+        "PreferFullRoomsFrequency": 0.5,
+        "PreferEmptyRoomsFrequency": 0.5
+    },
+    "LevelProgressionMaps": [
+        {
+            "Level": 2,
+            "RequiredXp": 999
+        }
+    ],
+    "DailyObjectives": [
+        [
+            {
+                "type": 1100,
+                "score": 100
+            }
+        ]
+    ],
+    "ConfigTable": [],
+    "PhotonConfig": {
+        "CrcCheckEnabled": true,
+        "EnableServerTracingAfterDisconnect": false
+    }
+}
